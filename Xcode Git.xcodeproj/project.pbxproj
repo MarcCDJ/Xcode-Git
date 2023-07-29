@@ -11,6 +11,7 @@
 		869B51A52A7535C400B87347 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 869B51A42A7535C400B87347 /* ContentView.swift */; };
 		869B51A72A7535C600B87347 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 869B51A62A7535C600B87347 /* Assets.xcassets */; };
 		869B51AB2A7535C600B87347 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 869B51AA2A7535C600B87347 /* Preview Assets.xcassets */; };
+		869B51B22A7539E400B87347 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 869B51B12A7539E400B87347 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		869B51A62A7535C600B87347 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		869B51A82A7535C600B87347 /* Xcode_Git.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Xcode_Git.entitlements; sourceTree = "<group>"; };
 		869B51AA2A7535C600B87347 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		869B51B12A7539E400B87347 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				869B51A22A7535C400B87347 /* Xcode_GitApp.swift */,
 				869B51A42A7535C400B87347 /* ContentView.swift */,
+				869B51B12A7539E400B87347 /* ModalView.swift */,
 				869B51A62A7535C600B87347 /* Assets.xcassets */,
 				869B51A82A7535C600B87347 /* Xcode_Git.entitlements */,
 				869B51A92A7535C600B87347 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				869B51B22A7539E400B87347 /* ModalView.swift in Sources */,
 				869B51A52A7535C400B87347 /* ContentView.swift in Sources */,
 				869B51A32A7535C400B87347 /* Xcode_GitApp.swift in Sources */,
 			);
