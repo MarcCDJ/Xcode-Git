@@ -15,7 +15,6 @@ struct ContentView: View {
             }
             .foregroundColor(.blue)
             .navigationBarTitle("Xcode and Git")
-            }
         }
     }
 }
